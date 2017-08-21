@@ -1,0 +1,30 @@
+body {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+input {
+	margin-right: 20px;
+	text-align: center;
+}
+form {
+	border: 1px solid black;
+	margin: 20px;
+	display:flex;
+	justify-content: center;
+	padding: 20px 0;
+	max-width: 1000px;
+}
+img {
+	width: 100px;
+	margin-bottom: 100px;
+}
+.contactDiv {
+	display: inline-block;
+	margin:20px;
+}
+.contactsList {
+	border: 1px solid black;
+	max-width: 1000px;
+	margin-left: 20px;
+}
+
